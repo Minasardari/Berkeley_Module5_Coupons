@@ -57,23 +57,29 @@ Since we need to make some decision we need to make sure we have clean data and 
   e.g. check for invalid values or extreme outliers in 'temperature' and we observe the unit is Celsius (°C) t using box plot
   ![image](https://github.com/user-attachments/assets/8c06ce3b-d714-4483-8a9f-d92eb874bfc7)
 
-#### Step 3: visualize the data to uncover patterns and insights
- ✅ Use a bar plot to visualize the coupon column.
+## Step 3: visualize the data to uncover patterns and insights
+✅ Use a bar plot to visualize the coupon column.
+
 ![image](https://github.com/user-attachments/assets/95b798b3-59d8-4b14-9813-a65e2f0f6337)
 
 ✅ Use a histogram to visualize the temperature column.
+
 ![image](https://github.com/user-attachments/assets/3af6557e-3307-4e58-ac3a-4b0873081506)
 
 ✅ use a bra chart to show Acceptance Rate of Bar Coupons by Frequency of Bar Visits
+
 ![image](https://github.com/user-attachments/assets/0b3f40be-d7f5-44eb-96dd-5388bdb2dc20)
 
 ✅ Acceptance Rate of Restaurant20To50 Coupons by ag
+
 ![image](https://github.com/user-attachments/assets/73b0571c-0ae4-4b8c-9861-f08b5178bbfe)
 
 ✅ Acceptance Rate of Restaurant20To50 Coupons by time for each age group
+
 ![image](https://github.com/user-attachments/assets/b3650eea-612e-462f-a3f9-c2c5acf180db)
 
 ✅ Acceptance Rate of Restaurant20To50 Coupons by  Income and age_group shows affect both 
+
 ![image](https://github.com/user-attachments/assets/72a0681c-bbc5-4f1e-9a39-bec00df6ead5)
 
 
