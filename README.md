@@ -98,8 +98,46 @@ Hypothesis Regular bar-goers—especially those over 25 years old, without child
 ## Restaurant (20-50) Specific coupons 
 
 Income Level and Acceptance: Investigated the income levels and extract mode to see which age group whitin the income mode accept restaurant coupons. The analysis shows a notable income level where there's a significant trend in acceptance for certain age groups (21-50).
+
 Age and Time Interactions: Acceptance rates for restaurant coupons also vary based on the time of day and the customer's age. Younger individuals between,21-50 might be more inclined to accept these coupons at specific times (10 AM, 10 pm) compared to older ones.
+
 Combined Effect of Income and age group: The intersection of income level and age group impacts acceptance rates. Certain income groups showing in heap map which 71.34% for age group below 21 and income rate  37500 49999.
 
 
-### Next to do
+### Next to do 
+
+## 1.Optimize Bar Coupon Promotions
+📌 Target Frequent Bar-Goers group
+
+Focus on individuals who visit bars 3+ times a month by giving some way to keep track of Bar checkins if we have app can do check in in app and send coupon to emmail or phone number 
+Partner with bars offering exclusive deals for regular patrons and send offers to most frequent Bar goer
+
+📌 Leverage Age-Based Offers
+
+Create tiered discounts for ages 21-25, as they accept bar coupons most and target the area this group socilize or work or study 
+Send coupos to work place schools
+Promote offers during peak social hours (evenings & weekends)
+
+📌 Consider Family Influence
+
+Offer family-friendly alternatives for parents who are less likely to redeem bar coupons maybe coffee or resturant coupon offers to them on app
+Market towards child-free social events
+
+## 2.Enhance Expensive Restaurant Coupon Strategies
+📌 Time-Based Optimization
+
+Push restaurant coupons via sms or email around peak 10 AM & 10 PM—peak acceptance times for younger individuals  
+Partner with resturants offering exclusive deals at other times to increase diners in other times low peak
+Use limited-time promotions during high-acceptance periods
+
+📌 Income-Level Adjustments
+
+People earning $37,500-$49,999 (below 21 group) have 71.34% acceptance rates—focus on these segments ,Customize offers based on disposable income levels
+
+📌 Age-Group Differentiation
+
+Younger adults respond well to digital coupons—use SMS, app-based discounts Ensure QR codes, one-click redemption, or digital wallets for easy access
+
+Older demographics prefer physical coupons or loyalty-based rewards
+
+
