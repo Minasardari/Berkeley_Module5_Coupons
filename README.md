@@ -1,6 +1,6 @@
 # Driver Coupons 
 ### Cource : Module 5 Berkeley
-Link to my notebook: https://github.com/Minasardari/Berkeley_Module5_Coupons/blob/main/Driver_Coupon_MinaS.ipynb
+Link to my notebook: https://github.com/Minasardari/Berkeley_Module5_Coupons/blob/main/MinaSardari_Driver_Coupon.ipynb
 ### Problem Statement : 
 Understanding consumer behavior is crucial for optimizing marketing strategies, especially when offering promotional discounts. This study aims to analyze the acceptance rates of **Bar** coupon acceptence rate as was asked in this module focusing on frequency of bar goers , passengars (e.g. if they have Kids) and occupation and for secondary investigation I investigated **Restaurant20To50** coupons, focusing on income groups, time of use, and age demographics. By leveraging bar charts and correlation matrices, we seek to:
 1. Identify key factors influencing coupon acceptance rates.
